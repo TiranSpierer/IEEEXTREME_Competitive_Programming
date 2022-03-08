@@ -21,11 +21,7 @@ Mysterious Maze - (100/100)
 
 Rumour - (100/100)
 
-Concentration Game
-
-Lemon
-
-Digit Fun!
+Concentration Game - (100/100)
 
 
 # IEEEXtreme-13.0
