@@ -11,8 +11,6 @@ Kabloom - (100/100)
 
 Pattern 3 - (100/100)
 
-Game of Stones
-
 # IEEEXtreme-10.0
 
 Goldbach's Second Conjecture - (100/100)
